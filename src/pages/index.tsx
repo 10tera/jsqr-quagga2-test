@@ -7,6 +7,10 @@ export default function Home() {
       <Link href="/jsqr">QRコード読み取り（jsQR）</Link>
       <br />
       <Link href="/quagga2">バーコード読み取り（quagga2）</Link>
+      <br />
+      <Link href="/quagga2-code-128">
+        バーコード読み取り（quagga2 with code128）
+      </Link>
     </div>
   );
 }
