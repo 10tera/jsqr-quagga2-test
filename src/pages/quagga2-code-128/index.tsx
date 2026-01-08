@@ -11,7 +11,6 @@ const Page = () => {
       Quagga.init(
         {
           inputStream: {
-            name: "Live",
             type: "LiveStream",
             target: videoRef.current,
             constraints: {
