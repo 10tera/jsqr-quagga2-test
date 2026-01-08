@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@ericblade/quagga2": "^1.8.4",
+    "@ericblade/quagga2": "^1.12.1",
     "jsqr": "^1.4.0",
     "next": "14.2.12",
     "react": "^18",
