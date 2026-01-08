@@ -61,7 +61,7 @@ const Page = () => {
       }}
     >
       <Link href="/">トップページに戻る</Link>
-      <h1>バーコード読み取り（quagga2）</h1>
+      <h1>バーコード読み取り（quagga2(v1.12.1)）</h1>
       <p>code_39（VIN）専用</p>
       <div
         ref={videoRef}
